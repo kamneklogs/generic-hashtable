@@ -10,3 +10,7 @@ The workspace contains two folders by default, where:
 - `src.datastructure`: the folder to Hashtable's source code
 - `lib`: the folder to maintain dependencies
 - `docs`: the folder to class diagram
+
+## Diagram Class
+
+<img src="docs/DiagramClass" width = 600>
