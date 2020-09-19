@@ -11,6 +11,6 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies
 - `docs`: the folder to class diagram
 
-## Diagram Class
+## Class Diagram
 
-<img src="docs/DiagramClass" width = 600>
+<img src="docs/Class_Diagram" width = 600>
