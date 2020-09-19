@@ -13,4 +13,4 @@ The workspace contains two folders by default, where:
 
 ## Class Diagram
 
-<img src="doc/Class_Diagram" width = 600>
+<img src="doc/Class_Diagram.png" width = 600>
